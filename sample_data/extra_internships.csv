@@ -1,0 +1,11 @@
+id,company,role,location,type,skills,description,deadline,source
+101,VisionWorks Egypt,Computer Vision Intern,"Cairo, Egypt",Hybrid,"Python, PyTorch, OpenCV, Deep Learning, Computer Vision",Train and evaluate image classification and object detection models on real datasets.,2026-11-15,Extra CSV
+102,Lumen AI Labs,LLM Application Intern,Remote,Remote,"Python, LLMs, RAG, LangChain, APIs, Git",Build retrieval augmented generation prototypes and evaluate answer quality with LLMs.,2026-11-20,Extra CSV
+103,Delta Analytics,Data Analyst Intern,"New Cairo, Egypt",On-site,"Python, Pandas, SQL, Data Analysis, Statistics","Clean business data, build dashboards and present insights to stakeholders.",2026-11-10,Extra CSV
+104,Nile NLP,NLP Research Intern,"Giza, Egypt",Hybrid,"Python, NLP, Transformers, HuggingFace, Arabic NLP",Fine tune transformer models for Arabic text classification and summarization.,2026-12-01,Extra CSV
+105,AutoFlow Systems,AI Agents Intern,Remote,Remote,"Python, AI Agents, LLMs, APIs, Automation, Docker",Design multi agent workflows that automate reporting and email processing.,2026-11-25,Extra CSV
+106,Pharos Robotics,Embedded Systems Intern,"New Capital, Egypt",On-site,"C++, Embedded Systems, ROS, Robotics, Microcontrollers",Develop firmware and sensor interfaces for mobile robots.,2026-12-05,Extra CSV
+107,Sphinx Cloud,Machine Learning Engineer Intern,"Cairo, Egypt",Hybrid,"Python, Machine Learning, Scikit-learn, AWS, Docker, Git",Deploy machine learning models as APIs and monitor their performance.,2026-11-30,Extra CSV
+108,Cairo Health Tech,Healthcare AI Intern,"Cairo, Egypt",Hybrid,"Python, Machine Learning, Data Analysis, NLP, Pandas",Analyze anonymized clinical text and build classification prototypes.,2026-12-10,Extra CSV
+109,Oasis Software,Software Engineering Intern,Remote,Remote,"Python, APIs, Git, SQL, Flask, Testing",Develop and test backend REST APIs for internal tools.,2026-11-18,Extra CSV
+110,Horizon Data,Data Science Intern,"Giza, Egypt",On-site,"Python, Pandas, Machine Learning, Statistics, SQL, Scikit-learn",Build predictive models for customer churn and demand forecasting.,2026-12-15,Extra CSV
